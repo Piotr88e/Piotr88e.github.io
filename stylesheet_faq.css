@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(0, 0, 0, 0.877);
+}
+
+/*FUCKING COLOURS FOR FUCK'S SAKE */
+.white {
+    color: white;
+}
+.lightgray {
+    color:lightgray;
+}
+/*TEXT ALIGNS GO FUCKING HERE */
+.center-text {
+    text-align: center;
+}
+
+/*MY FUCKING SANITY IS GONE AND THESE ARE FONT SIZES */
+.bigsize300 {
+    font-size: 300%;
+}
+/*I DON"T FUCKING KNOW ANYMORE I GUESS THIS IS SHIT IN HERE */
+p {
+    font-size: 150%;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+/*linkies uwu*/
+a.center-text {
+    display: block;
+}
+a {
+    text-align: center;
+    font-size: 150%;
+}
+a:link {
+    color:white;
+}
+a:visited {
+    color:aquamarine
+}
+a:hover {
+    color:cyan;
+}
