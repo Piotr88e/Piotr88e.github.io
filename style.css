@@ -1,0 +1,88 @@
+body {
+    background: linear-gradient(to top, black, rgb(34, 34, 34));
+}
+/* colours you fucking idiot */
+.burlywood {
+    color: burlywood;
+}
+.white {
+    color: white;
+}
+.grey {
+    color:gray;
+}
+.black {
+    color:black;
+}
+.red {
+    color:red;
+}
+.blue {
+    color:blue
+}
+/* alignement for text or something i don't even know anymore */
+.centre {
+    text-align: center;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+/* AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA */
+.maintitle {
+    text-align: center;
+    color: burlywood;
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
+    font-size: 250%;
+}
+/* left right text yummy */
+.gayfuck {
+    display: flex;
+    justify-content: space-between;
+    font-size: 130%;
+    color:burlywood
+  }
+  
+  .left, .right {
+    width: 50%; /* if fucked change this */
+  }
+  .left {
+    float:left;
+    width: 30%;
+  }
+  .right {
+    white-space: pre-line;
+    float:right;
+    width: 30%;
+  }
+/* bottom right credits thing */
+.bottom-right-text {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: rgb(77, 67, 143);
+    white-space: pre-line;
+}
+/* bottom left plead thing */
+.bottom-left-text {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: rgb(77, 67, 143);
+    white-space: pre-line;
+}
+/* links so they don't look like shit */
+a {
+    color: #cc5500;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #d38045;
+  }
+  a:hover {
+    color: #ff9900;
+    text-decoration: underline;
+  }
