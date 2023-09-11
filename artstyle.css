@@ -52,3 +52,20 @@ a {
     color: #ff9900;
     text-decoration: underline;
   }
+/* go to top button shitfuck thing */
+#go-to-top {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #0077b6; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#go-to-top a {
+    text-decoration: none;
+    color: #fff;
+}
