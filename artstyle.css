@@ -57,3 +57,10 @@ a {
     text-align: center;
     font-size: 175%;
 }
+/*rah*/
+.goback {
+    position: fixed;
+    right: 20%;
+    top: 2%;
+    font-size: 150%;
+}

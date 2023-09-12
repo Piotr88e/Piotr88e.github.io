@@ -86,3 +86,27 @@ a {
     color: #ff9900;
     text-decoration: underline;
   }
+/* shit for aboutme.html */
+.aboutme {
+    display: flex; /* Use flexbox to center the text vertically */
+    justify-content: center; /* Center the text horizontally */
+    align-items: center; /* Center the text vertically */
+    height: 500px; /* Set a height for the container */
+    color: burlywood;
+    font-size: 120%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.smalltextaboutme {
+    font-size: 60%;
+    position: fixed;
+    bottom: 40%;
+    left: 40%;
+    right: 40%;
+}
+.gobackaboutme {
+    position: fixed;
+    top: 10%;
+    right: 10%;
+    font-size: 200%;
+}
