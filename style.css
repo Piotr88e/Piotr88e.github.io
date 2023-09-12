@@ -88,10 +88,10 @@ a {
   }
 /* shit for aboutme.html */
 .aboutme {
-    display: flex; /* Use flexbox to center the text vertically */
-    justify-content: center; /* Center the text horizontally */
-    align-items: center; /* Center the text vertically */
-    height: 500px; /* Set a height for the container */
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 500px; 
     color: burlywood;
     font-size: 120%;
     margin-left: 30%;
